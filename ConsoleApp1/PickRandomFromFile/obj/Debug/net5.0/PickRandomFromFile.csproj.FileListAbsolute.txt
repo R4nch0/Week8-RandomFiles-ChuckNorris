@@ -1,0 +1,16 @@
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.exe
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.deps.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.runtimeconfig.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\bin\Debug\net5.0\ref\PickRandomFromFile.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\obj\Debug\net5.0\ref\PickRandomFromFile.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.genruntimeconfig.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.exe
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.deps.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.runtimeconfig.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\bin\Debug\net5.0\ref\FridayNightRandomReturn.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\obj\Debug\net5.0\ref\FridayNightRandomReturn.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 6\ConsoleApp1\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.genruntimeconfig.cache
